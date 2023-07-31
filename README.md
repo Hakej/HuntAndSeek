@@ -1,2 +1,2 @@
 # Hunt & Seek
-Multiplayer assymetrical game about hunter hunting his prey.
+Multiplayer asymmetrical game about hunter hunting his prey.
